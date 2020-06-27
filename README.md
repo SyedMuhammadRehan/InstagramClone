@@ -1,5 +1,5 @@
 # InstagramClone
-I'm a beginner and I created Instagram Clone acc. to my knowlegde 
+ I created Instagram Clone acc. to my knowlegde 
 These are the just screens of Instagram
 You have to install the node modules
 You can change the screens by chaning the function in App.js because i didn't link them through navigation 
